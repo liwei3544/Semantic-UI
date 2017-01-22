@@ -1,0 +1,3 @@
+D:\0-Project\History\Baijiale\src\SumbetGather\obj\Release\SunbetGather.frmMain.resources
+D:\0-Project\History\Baijiale\src\SumbetGather\obj\Release\SunbetGather.Properties.Resources.resources
+D:\0-Project\History\Baijiale\src\SumbetGather\obj\Release\SunbetGather.csproj.GenerateResource.Cache
